@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 🌱 My name is Bladen Ward, I'm a full stack web developer with a focus on performance and user experience
 
 <!--
+- 🌱 My name is Bladen Ward, I'm a full stack web developer with a focus on performance and user experience
+
 **BladenWard/BladenWard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
